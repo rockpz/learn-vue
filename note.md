@@ -4,3 +4,9 @@
 
 ## 2. 站在巨人的肩膀上
 - [资源仓库 vue-element-admin](git@github.com:PanJiaChen/vue-element-admin.git)
+
+## 3. 完成登陆页面
+
+- import目录下要有index.js文件
+- 安装缺失的依赖
+- 关闭eslint检查
